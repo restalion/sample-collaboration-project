@@ -8,5 +8,6 @@ public class CollaborationDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CollaborationDemoApplication.class, args);
+		String j = "";
 	}
 }
